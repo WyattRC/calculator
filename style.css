@@ -1,0 +1,46 @@
+#container{
+  display: flex;
+  justify-content: center;
+}
+
+.secondDiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 400px;
+  width: 30%;
+}
+.upperBar{
+  display: flex;
+  justify-content: center;
+}
+.row1 {
+  display: flex;
+  justify-content: center;
+
+}
+.row1 input{
+width: 40px;
+
+}
+.row2 {
+  display: flex;
+  justify-content: center;
+  }
+  .row2 input{
+  width: 40px;
+}
+.row3 {
+  display: flex;
+  justify-content: center;
+}
+.row3 input{
+width: 40px;
+}
+.row4 {
+  display: flex;
+  justify-content: center;
+}
+.row4 input{
+width: 40px;
+}
